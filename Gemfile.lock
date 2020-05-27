@@ -251,7 +251,7 @@ DEPENDENCIES
   pry-rails
   pry-stack_explorer
   puma (~> 3.11)
-  rails (~> 5.2.0)
+  rails (~> 5.2.4)
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
